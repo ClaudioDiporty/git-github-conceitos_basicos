@@ -1,4 +1,6 @@
-# Git e GitHub
+# Inspiração e Acompanhamento.
+
+## Git e GitHub
 
 Aprendendo Curso de Git e GitHub com TeoCalvo!!!
 
